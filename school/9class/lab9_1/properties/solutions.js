@@ -11,11 +11,11 @@ var solutions = {
                         "vessel": "3LCarboy",
                         "species": 
                         [
-                          { "id": 0 
-
+                          { 
+                            "id": 0
                           }
                         ]
-                    },
+                    }
                 ]
             }
         ]

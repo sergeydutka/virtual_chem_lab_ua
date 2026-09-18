@@ -1,5 +1,5 @@
 var configuration = {
-    "title": "Добування карбон(IV) оксиду",
+    "title": "Тепловий ефект розчинення",
     "solutionModellers": { "specificHeat": "solvent2" },
     "solutionViewers": [
         {
@@ -17,7 +17,7 @@ var configuration = {
         { "id": "spectrometer", "displayDefault": false },
         { "id": "particleView", "displayDefault": false },
         { "id": "thermometer", "displayDefault": true },
-        { "id": "pH", "displayDefault": true },
+        { "id": "pH", "displayDefault": false },
         { "id": "vesselTrackingControl", "displayDefault": false }
     ],
     "transfer": ["precise", "significantFigures", "realistic"]
