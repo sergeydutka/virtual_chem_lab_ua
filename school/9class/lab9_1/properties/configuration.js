@@ -17,7 +17,7 @@ var configuration = {
         { "id": "spectrometer", "displayDefault": false },
         { "id": "particleView", "displayDefault": false },
         { "id": "thermometer", "displayDefault": true },
-        { "id": "pH", "displayDefault": true },
+        { "id": "pH", "displayDefault": false },
         { "id": "vesselTrackingControl", "displayDefault": false }
     ],
     "transfer": ["precise", "significantFigures", "realistic"]
