@@ -1,5 +1,5 @@
 var configuration = {
-    "title": "Добування купрум(II) гідроксиду",
+    "title": "Розчинність речовин у різних розчинниках",
     "solutionModellers": { "specificHeat": "solvent2" },
     "solutionViewers": [
         {
