@@ -7,6 +7,34 @@ var reactions = {
                     { "id": 1, "coefficient": 1 }, // H +
                     { "id": 2, "coefficient": 1 } // OH -
                 ]
+            },
+            {
+                "SPECIES_REF": [
+                    { "id": 3, "coefficient": -1 }, // CaCl2
+                    { "id": 4, "coefficient": 1 }, // Ca 2+
+                    { "id": 5, "coefficient": 2 } // Cl -
+                ]
+            },
+            {
+                "SPECIES_REF": [
+                    { "id": 6, "coefficient": -1 }, // Na2CO3
+                    { "id": 7, "coefficient": 2 }, // Na +
+                    { "id": 8, "coefficient": 1 } // CO3 2-
+                ]
+            },
+            {
+                "SPECIES_REF": [
+                    { "id": 9, "coefficient": -1 }, // NH4Cl
+                    { "id": 10, "coefficient": 1 }, // NH4 +
+                    { "id": 5, "coefficient": 1 } // Cl -
+                ]
+            },
+            {
+                "SPECIES_REF": [
+                    { "id": 11, "coefficient": -1 }, // CuSO4
+                    { "id": 12, "coefficient": 1 }, // Cu 2+
+                    { "id": 13, "coefficient": 1 } // SO4 2-
+                ]
             }
         ]
     }

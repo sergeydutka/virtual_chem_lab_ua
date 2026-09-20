@@ -7,12 +7,12 @@ var configuration = {
             "args": { "honorSignificantFigures": false }
         },
         {
-            "id": "aqueous", "displayDefault": true,
-            "args": { "unitsToggleEnabled": true }
+            "id": "aqueous", "displayDefault": false,
+            "args": { "unitsToggleEnabled": false }
         },
         {
-            "id": "solid", "displayDefault": true,
-            "args": { "unitsToggleEnabled": true }
+            "id": "solid", "displayDefault": false,
+            "args": { "unitsToggleEnabled": false }
         },
         { "id": "spectrometer", "displayDefault": false },
         { "id": "particleView", "displayDefault": false },

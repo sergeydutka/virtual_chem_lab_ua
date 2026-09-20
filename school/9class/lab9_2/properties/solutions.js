@@ -15,6 +15,54 @@ var solutions = {
                             "id": 0
                           }
                         ]
+                    },
+                    {
+                        "name": "CaCl<sub>2</sub>",
+                        "description": "Кальцій хлорид",
+                        "vessel": "SolidBottle",
+                        "species": 
+                        [
+                          { 
+                            "id": 3,
+                            "amount": 0.009010145424
+                          }
+                        ]
+                    },
+                    {
+                        "name": "Na<sub>2</sub>CO<sub>3</sub>",
+                        "description": "Натрій карбонат",
+                        "vessel": "SolidBottle",
+                        "species": 
+                        [
+                          { 
+                            "id": 6,
+                            "amount": 0.009434941362
+                          }
+                        ]
+                    },
+                    {
+                        "name": "NH<sub>4</sub>Cl",
+                        "description": "Амоній хлорид",
+                        "vessel": "SolidBottle",
+                        "species": 
+                        [
+                          { 
+                            "id": 9,
+                            "amount": 0.0186950832
+                          }
+                        ]
+                    },
+                    {
+                        "name": "CuSO<sub>4</sub>",
+                        "description": "Купрум(2+) сульфат",
+                        "vessel": "SolidBottle",
+                        "species": 
+                        [
+                          { 
+                            "id": 11,
+                            "amount": 0.0062656642
+                          }
+                        ]
                     }
                 ]
             }
