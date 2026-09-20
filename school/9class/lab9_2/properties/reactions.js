@@ -24,16 +24,16 @@ var reactions = {
             },
             {
                 "SPECIES_REF": [
-                    { "id": 9, "coefficient": -1 }, // NH4Cl
+                    { "id": 9, "coefficient": -1 }, // NH4NO3
                     { "id": 10, "coefficient": 1 }, // NH4 +
-                    { "id": 5, "coefficient": 1 } // Cl -
+                    { "id": 11, "coefficient": 1 } // NO3 -
                 ]
             },
             {
                 "SPECIES_REF": [
-                    { "id": 11, "coefficient": -1 }, // CuSO4
-                    { "id": 12, "coefficient": 1 }, // Cu 2+
-                    { "id": 13, "coefficient": 1 } // SO4 2-
+                    { "id": 12, "coefficient": -1 }, // NaOH
+                    { "id": 6, "coefficient": 1 }, // Na +
+                    { "id": 2, "coefficient": 1 } // OH -
                 ]
             }
         ]
