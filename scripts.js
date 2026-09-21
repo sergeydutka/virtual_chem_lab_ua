@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.querySelectorAll('.lab-link').forEach(link => {
 
-        link.addEventListener('click', function(event) {
+        link.addEventListener('click', function (event) {
 
             event.preventDefault();
 

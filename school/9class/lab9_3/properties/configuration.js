@@ -1,5 +1,5 @@
 var configuration = {
-    "title": "Розчинність речовин у різних розчинниках",
+    "title": "",
     "solutionModellers": { "specificHeat": "solvent2" },
     "solutionViewers": [
         {
@@ -11,8 +11,8 @@ var configuration = {
             "args": { "unitsToggleEnabled": false }
         },
         {
-            "id": "solid", "displayDefault": true,
-            "args": { "unitsToggleEnabled": true }
+            "id": "solid", "displayDefault": false,
+            "args": { "unitsToggleEnabled": false }
         },
         { "id": "spectrometer", "displayDefault": false },
         { "id": "particleView", "displayDefault": false },

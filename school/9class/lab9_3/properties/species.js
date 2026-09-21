@@ -22,22 +22,6 @@ var species = {
                 "enthalpy": -229.99,
                 "entropy": -10.75,
                 "molecularWeight": 17.008
-            },
-            {
-                "id": 3,
-                "name": "C<sub>2</sub>H<sub>5</sub>OH",
-                "enthalpy": -277.0,
-                "entropy": 160.7,
-                "state": "l",
-                "molecularWeight": 46.069
-            },
-            {
-                "id": 4,
-                "name": "WhiteSpirit",
-                "enthalpy": -230.0,
-                "entropy": 230.0,
-                "state": "l",
-                "molecularWeight": 110.0
             }
         ]
     }
