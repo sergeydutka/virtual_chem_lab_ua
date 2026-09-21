@@ -11,7 +11,7 @@ var solutions = {
                 "name": "H<sub>2</sub>O",
                 "description": "Дистильована вода",
                 "volume": "1.0",
-                "vessel": "2500mLBottle",
+                "vessel": "3LCarboy",
                 "species":
                   [
                     {
