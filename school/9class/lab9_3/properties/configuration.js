@@ -1,5 +1,5 @@
 var configuration = {
-    "title": "",
+    "title": "Виготовлення водних розчинів із заданими масовими частками розчинених речовин",
     "solutionModellers": { "specificHeat": "solvent2" },
     "solutionViewers": [
         {
@@ -7,16 +7,16 @@ var configuration = {
             "args": { "honorSignificantFigures": false }
         },
         {
-            "id": "aqueous", "displayDefault": false,
-            "args": { "unitsToggleEnabled": false }
+            "id": "aqueous", "displayDefault": true,
+            "args": { "unitsToggleEnabled": true }
         },
         {
-            "id": "solid", "displayDefault": false,
-            "args": { "unitsToggleEnabled": false }
+            "id": "solid", "displayDefault": true,
+            "args": { "unitsToggleEnabled": true }
         },
         { "id": "spectrometer", "displayDefault": false },
         { "id": "particleView", "displayDefault": false },
-        { "id": "thermometer", "displayDefault": false },
+        { "id": "thermometer", "displayDefault": true },
         { "id": "pH", "displayDefault": false },
         { "id": "vesselTrackingControl", "displayDefault": false }
     ],
